@@ -13,9 +13,31 @@ Our UI library allows developers to upload their UI components and sell them to 
 ## Local Setup
 
 To set up the project locally, follow these steps:
+Clone the project
 
-1. Clone the repository
-2. Install dependencies with `npm install`
-3. Start the development server with `npm run dev`
-4. Open `http://localhost:3000` in your browser
+```bash
+  git clone
+```
+
+Go to the project directory
+
+```bash
+  cd frontend
+```
+
+Install dependencies
+
+```bash
+  pnpm install
+```
+
+Start the server
+
+```bash
+  pnpm run dev
+```
+
+Open browser site
+- Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
 
