@@ -2,6 +2,10 @@
 
 # UI Library
 
+## Presentation
+
+Check out our [presentation](https://pitch.com/public/a3ad8c82-7ea2-4204-948d-2aa67b7b049e) to learn more about our UI library.
+
 ## Problem Statement
 Lack of a centralized platform for developers to upload and sell their UI components. Currently, developers have to rely on various marketplaces or create their own websites to sell their components. This creates a fragmented market and makes it difficult for developers to reach a wider audience. Additionally, there is a lack of an in-built code editor, which makes it difficult for developers to create and edit their components. 
 
