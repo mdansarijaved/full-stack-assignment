@@ -15,9 +15,6 @@ Our in-built code editor allows developers to create and edit their components d
 
 We used Next.js for the frontend and backend of our platform. Next.js is a popular framework for building server-side rendered React applications. It provides a great developer experience and makes it easy to build scalable applications.
 
-We also used Stripe for payment processing. Stripe is a secure and reliable payment processing platform that allows us to handle payments from users all over the world.
-
-Overall, our UI library provides a centralized platform for developers to upload and sell their UI components, with an in-built code editor and secure payment processing.
 
 ## Local Setup
 
